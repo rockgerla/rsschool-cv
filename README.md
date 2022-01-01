@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rockgerla.github.io/rsschool-cv/cv
